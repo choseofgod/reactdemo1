@@ -1,0 +1,8 @@
+.left,.right {
+  float: left;
+  min-height: 500px;
+  width: 50%;
+}
+.head {
+  min-height: 500px;
+}
